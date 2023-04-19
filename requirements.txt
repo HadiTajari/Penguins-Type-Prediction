@@ -1,0 +1,5 @@
+dtale==2.12.3
+pip-chill==1.0.3
+streamlit==1.21.0
+wincertstore==0.2
+yfinance==0.2.17
